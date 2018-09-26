@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 17 15:47:36 2018
 
-@author: hmohan
-"""
 
 import xlsxwriter
 import mysql
